@@ -1,0 +1,7042 @@
+[Blue] rolled 2
+[Red] rolled 2
+[Green] rolled 6
+[Yellow] rolled 6
+All roll the dice again
+
+[Blue] rolled 2
+[Red] rolled 6
+[Green] rolled 2
+[Yellow] rolled 4
+
+Red Starts The Game First
+[Red] rolled 6
+[R4] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Red] rolled 4
+[R4] piece moved 4 blocks
+
+[Green] rolled 1
+No moveable pieces for [Green]
+
+[Yellow] rolled 1
+No moveable pieces for [Yellow]
+
+[Blue] rolled 3
+No moveable pieces for [Blue]
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Base
+Piece R3= At Base
+Piece R4= 49 and pi=5
+
+[Green] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= At Base
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= At Base
+
+
+[Red] rolled 1
+[R4] piece moved 1 blocks
+
+[Green] rolled 1
+No moveable pieces for [Green]
+
+[Yellow] rolled 4
+No moveable pieces for [Yellow]
+
+[Blue] rolled 3
+No moveable pieces for [Blue]
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Base
+Piece R3= At Base
+Piece R4= 48 and pi=6
+
+[Green] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= At Base
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= At Base
+
+
+[Red] rolled 6
+[R2] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Red] rolled 2
+[R4] piece moved 2 blocks
+
+[Green] rolled 5
+No moveable pieces for [Green]
+
+[Yellow] rolled 5
+No moveable pieces for [Yellow]
+
+[Blue] rolled 2
+No moveable pieces for [Blue]
+
+[Red] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 1 and pi=1
+Piece R3= At Base
+Piece R4= 46 and pi=8
+
+[Green] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= At Base
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= At Base
+
+
+A mystery cell has spawned in location 15 and will be at this location for the next four rounds.
+[Red] rolled 1
+[R4] piece moved 1 blocks
+
+[Green] rolled 5
+No moveable pieces for [Green]
+
+[Yellow] rolled 1
+No moveable pieces for [Yellow]
+
+[Blue] rolled 5
+No moveable pieces for [Blue]
+
+[Red] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 1 and pi=1
+Piece R3= At Base
+Piece R4= 45 and pi=9
+
+[Green] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= At Base
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= At Base
+
+
+[Red] rolled 4
+[R4] piece moved 4 blocks
+
+[Green] rolled 6
+[G3] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Green] rolled 4
+[G3] piece moved 4 blocks
+
+[Yellow] rolled 1
+No moveable pieces for [Yellow]
+
+[Blue] rolled 3
+No moveable pieces for [Blue]
+
+[Red] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 1 and pi=1
+Piece R3= At Base
+Piece R4= 41 and pi=13
+
+[Green] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 10 and pi=5
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= At Base
+
+
+[Red] rolled 6
+[R1] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Red] rolled 4
+[R2] piece moved 4 blocks
+
+[Green] rolled 1
+[G3] piece moved 1 blocks
+
+[Yellow] rolled 2
+No moveable pieces for [Yellow]
+
+[Blue] rolled 6
+[B4] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Blue] rolled 5
+[B4] piece moved 5 blocks
+
+[Red] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 1 and pi=1
+Piece R2= 5 and pi=5
+Piece R3= At Base
+Piece R4= 41 and pi=13
+
+[Green] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 9 and pi=6
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 45 and pi=6
+
+
+[Red] rolled 1
+[R4] piece moved 1 blocks
+
+[Green] rolled 1
+[G3] piece moved 1 blocks
+
+[Yellow] rolled 2
+No moveable pieces for [Yellow]
+
+[Blue] rolled 2
+[B4] piece moved 2 blocks
+
+[Red] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 1 and pi=1
+Piece R2= 5 and pi=5
+Piece R3= At Base
+Piece R4= 40 and pi=14
+
+[Green] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 8 and pi=7
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 47 and pi=8
+
+
+A mystery cell has spawned in location 20 and will be at this location for the next four rounds.
+[Red] rolled 4
+[R1] piece moved 4 blocks
+
+[Green] rolled 5
+[G3] piece moved 5 blocks
+
+[Yellow] rolled 2
+No moveable pieces for [Yellow]
+
+[Blue] rolled 2
+[B4] piece moved 2 blocks
+
+[Red] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 5 and pi=5
+Piece R2= 5 and pi=5
+Piece R3= At Base
+Piece R4= 40 and pi=14
+
+[Green] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 3 and pi=12
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 49 and pi=10
+
+
+[Red] rolled 1
+[R4] piece moved 1 blocks
+
+[Green] rolled 1
+[G3] piece moved 1 blocks
+
+[Yellow] rolled 5
+No moveable pieces for [Yellow]
+
+[Blue] rolled 2
+[B4] piece moved 2 blocks
+
+[Red] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 5 and pi=5
+Piece R2= 5 and pi=5
+Piece R3= At Base
+Piece R4= 39 and pi=15
+
+[Green] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 2 and pi=13
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 51 and pi=12
+
+
+[Red] rolled 4
+[R2] piece moved 4 blocks
+
+[Green] rolled 3
+[G3] piece moved 3 blocks
+[G3] piece captured by [B4]!
+Player Can Roll Dices Again
+
+[Green] rolled 6
+[G4] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Green] rolled 2
+[G3] piece moved 2 blocks
+
+[Yellow] rolled 2
+No moveable pieces for [Yellow]
+
+[Blue] rolled 3
+No moveable pieces for [Blue]
+
+[Red] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 5 and pi=5
+Piece R2= 9 and pi=9
+Piece R3= At Base
+Piece R4= 39 and pi=15
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 49 and pi=18
+Piece G4= 14 and pi=1
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= At Base
+
+
+[Red] rolled 4
+[R2] piece moved 4 blocks
+
+[Green] rolled 4
+[G3] piece moved 4 blocks
+
+[Yellow] rolled 3
+No moveable pieces for [Yellow]
+
+[Blue] rolled 3
+No moveable pieces for [Blue]
+
+[Red] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 5 and pi=5
+Piece R2= 13 and pi=13
+Piece R3= At Base
+Piece R4= 39 and pi=15
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 45 and pi=22
+Piece G4= 14 and pi=1
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= At Base
+
+
+A mystery cell has spawned in location 21 and will be at this location for the next four rounds.
+[Red] rolled 4
+[R1] piece moved 4 blocks
+
+[Green] rolled 2
+[G4] piece moved 2 blocks
+
+[Yellow] rolled 1
+No moveable pieces for [Yellow]
+
+[Blue] rolled 6
+[B4] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Blue] rolled 4
+[B4] piece moved 4 blocks
+
+[Red] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 9 and pi=9
+Piece R2= 13 and pi=13
+Piece R3= At Base
+Piece R4= 39 and pi=15
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 45 and pi=22
+Piece G4= 12 and pi=3
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 36 and pi=5
+
+
+[Red] rolled 2
+[R2] piece moved 2 blocks
+
+[Green] rolled 4
+[G4] piece moved 4 blocks
+
+[Yellow] rolled 5
+No moveable pieces for [Yellow]
+
+[Blue] rolled 4
+[B4] piece moved 4 blocks
+
+[Red] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 9 and pi=9
+Piece R2= 15 and pi=15
+Piece R3= At Base
+Piece R4= 39 and pi=15
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 45 and pi=22
+Piece G4= 8 and pi=7
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 32 and pi=9
+
+
+[Red] rolled 2
+[R2] piece moved 2 blocks
+
+[Green] rolled 2
+[G3] piece moved 2 blocks
+
+[Yellow] rolled 2
+No moveable pieces for [Yellow]
+
+[Blue] rolled 3
+[B4] piece moved 3 blocks
+
+[Red] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 9 and pi=9
+Piece R2= 17 and pi=17
+Piece R3= At Base
+Piece R4= 39 and pi=15
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 43 and pi=24
+Piece G4= 8 and pi=7
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 29 and pi=12
+
+
+[Red] rolled 3
+[R1] piece moved 3 blocks
+
+[Green] rolled 2
+[G3] piece moved 2 blocks
+
+[Yellow] rolled 4
+No moveable pieces for [Yellow]
+
+[Blue] rolled 4
+[B4] piece moved 4 blocks
+
+[Red] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 12 and pi=12
+Piece R2= 17 and pi=17
+Piece R3= At Base
+Piece R4= 39 and pi=15
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 41 and pi=26
+Piece G4= 8 and pi=7
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Base
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 25 and pi=16
+
+
+A mystery cell has spawned in location 52 and will be at this location for the next four rounds.
+[Red] rolled 3
+[R4] piece moved 3 blocks
+
+[Green] rolled 5
+[G3] piece moved 5 blocks
+[G3] piece captured by [R4]!
+Player Can Roll Dices Again
+
+[Green] rolled 3
+[G4] piece moved 3 blocks
+
+[Yellow] rolled 6
+[Y1] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Yellow] rolled 6
+[Y3] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Yellow] rolled 3
+[Y1] piece moved 3 blocks
+
+[Blue] rolled 6
+[B1] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Blue] rolled 2
+[B4] piece moved 2 blocks
+
+[Red] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 12 and pi=12
+Piece R2= 17 and pi=17
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 36 and pi=31
+Piece G4= 5 and pi=10
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 24 and pi=4
+Piece Y2= At Base
+Piece Y3= 27 and pi=1
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 40 and pi=1
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 23 and pi=18
+
+
+[Red] rolled 5
+[R1] piece moved 5 blocks
+
+[Green] rolled 4
+[G3] piece moved 4 blocks
+
+[Yellow] rolled 3
+[Y1] piece moved 3 blocks
+
+[Blue] rolled 1
+[B4] piece moved 1 blocks
+
+[Red] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 17 and pi=17
+Piece R2= 17 and pi=17
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 32 and pi=35
+Piece G4= 5 and pi=10
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 21 and pi=7
+Piece Y2= At Base
+Piece Y3= 27 and pi=1
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 40 and pi=1
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 22 and pi=19
+
+
+[Red] rolled 3
+[R2] piece moved 3 blocks
+
+[Green] rolled 4
+[G4] piece moved 4 blocks
+
+[Yellow] rolled 4
+[Y3] piece moved 4 blocks
+
+[Blue] rolled 4
+[B4] piece moved 4 blocks
+
+[Red] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 17 and pi=17
+Piece R2= 20 and pi=20
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 32 and pi=35
+Piece G4= 1 and pi=14
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 21 and pi=7
+Piece Y2= At Base
+Piece Y3= 31 and pi=5
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 40 and pi=1
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 18 and pi=23
+
+
+[Red] rolled 4
+[R1] piece moved 4 blocks
+[R1] piece captured by [Y1]!
+Player Can Roll Dices Again
+
+[Red] rolled 4
+[R2] piece moved 4 blocks
+
+[Green] rolled 2
+[G3] piece moved 2 blocks
+
+[Yellow] rolled 1
+[Y3] piece moved 1 blocks
+
+[Blue] rolled 3
+[B1] piece moved 3 blocks
+
+[Red] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 21 and pi=21
+Piece R2= 24 and pi=24
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 30 and pi=37
+Piece G4= 1 and pi=14
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= 32 and pi=6
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 37 and pi=4
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 18 and pi=23
+
+
+A mystery cell has spawned in location 35 and will be at this location for the next four rounds.
+[Red] rolled 5
+[R1] piece moved 5 blocks
+
+[Green] rolled 1
+[G4] piece moved 1 blocks
+
+[Yellow] rolled 3
+[Y3] piece moved 3 blocks
+[Y3] player lands on a mystery cell and is teleported to Pita-Kotuwa.
+The [Y3] piece, which was moving clockwise, has changed to moving counterclockwise.
+
+[Blue] rolled 3
+[B4] piece moved 3 blocks
+
+[Red] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 26 and pi=26
+Piece R2= 24 and pi=24
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 30 and pi=37
+Piece G4= 52 and pi=15
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= 19 and pi=25
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 37 and pi=4
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 15 and pi=26
+
+
+[Red] rolled 1
+[R1] piece moved 1 blocks
+
+[Green] rolled 3
+[G3] piece moved 3 blocks
+[G3] piece captured by [R1]!
+Player Can Roll Dices Again
+
+[Green] rolled 5
+[G4] piece moved 5 blocks
+
+[Yellow] rolled 2
+[Y3] piece moved 2 blocks
+
+[Blue] rolled 5
+[B1] piece moved 5 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 24 and pi=24
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 27 and pi=40
+Piece G4= 47 and pi=20
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= 1 and pi=27
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 32 and pi=9
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 15 and pi=26
+
+
+[Red] rolled 4
+[R2] piece moved 4 blocks
+
+[Green] rolled 6
+[G3] piece moved 6 blocks
+# Roll Again #
+[Green] rolled 4
+[G3] piece moved 4 blocks
+
+[Yellow] rolled 5
+[Y3] piece moved 5 blocks
+
+[Blue] rolled 1
+[B1] piece moved 1 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 28 and pi=28
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 17 and pi=50
+Piece G4= 47 and pi=20
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= 48 and pi=32
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 31 and pi=10
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 15 and pi=26
+
+
+[Red] rolled 1
+[R2] piece moved 1 blocks
+
+[Green] rolled 3
+[G3] piece moved 3 blocks
+
+[Yellow] rolled 5
+[Y3] piece moved 5 blocks
+
+[Blue] rolled 5
+[B4] piece moved 5 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 29 and pi=29
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 14 and pi=53
+Piece G4= 47 and pi=20
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= 43 and pi=37
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 31 and pi=10
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 10 and pi=31
+
+
+A mystery cell has spawned in location 22 and will be at this location for the next four rounds.
+[Red] rolled 5
+[R2] piece moved 5 blocks
+
+[Green] rolled 4
+[G4] piece moved 4 blocks
+[G4] piece captured by [Y3]!
+Player Can Roll Dices Again
+
+[Green] rolled 1
+[G3] piece moved 1 blocks
+
+[Yellow] rolled 2
+No moveable pieces for [Yellow]
+
+[Blue] rolled 4
+[B4] piece moved 4 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 34 and pi=34
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 13 and pi=54
+Piece G4= 43 and pi=24
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 31 and pi=10
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 6 and pi=35
+
+
+[Red] rolled 1
+[R2] piece moved 1 blocks
+
+[Green] rolled 3
+[G4] piece moved 3 blocks
+
+[Yellow] rolled 1
+No moveable pieces for [Yellow]
+
+[Blue] rolled 6
+[B4] piece moved 6 blocks
+# Roll Again #
+[Blue] rolled 2
+[B4] piece moved 2 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 35 and pi=35
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 13 and pi=54
+Piece G4= 40 and pi=27
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 31 and pi=10
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 50 and pi=43
+
+
+[Red] rolled 2
+[R2] piece moved 2 blocks
+
+[Green] rolled 2
+[G4] piece moved 2 blocks
+
+[Yellow] rolled 2
+No moveable pieces for [Yellow]
+
+[Blue] rolled 5
+[B4] piece moved 5 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 37 and pi=37
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 13 and pi=54
+Piece G4= 38 and pi=29
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 31 and pi=10
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 45 and pi=48
+
+
+[Red] rolled 4
+[R2] piece moved 4 blocks
+
+[Green] rolled 3
+[G4] piece moved 3 blocks
+
+[Yellow] rolled 6
+[Y2] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Yellow] rolled 4
+[Y2] piece moved 4 blocks
+
+[Blue] rolled 3
+[B4] piece moved 3 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 41 and pi=41
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 13 and pi=54
+Piece G4= 35 and pi=32
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 23 and pi=5
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 31 and pi=10
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 42 and pi=51
+
+
+A mystery cell has spawned in location 48 and will be at this location for the next four rounds.
+[Red] rolled 4
+[R2] piece moved 4 blocks
+
+[Green] rolled 1
+[G3] piece moved 1 blocks
+
+[Yellow] rolled 6
+[Y3] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Yellow] rolled 6
+[Y2] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 4
+[Y2] piece moved 4 blocks
+
+[Blue] rolled 4
+[B1] piece moved 4 blocks
+[B1] piece captured by [Y3]!
+Player Can Roll Dices Again
+
+[Blue] rolled 2
+[B1] piece moved 2 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 45 and pi=45
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 12 and pi=55
+Piece G4= 35 and pi=32
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 13 and pi=15
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 25 and pi=16
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 42 and pi=51
+
+
+[Red] rolled 5
+[R2] piece moved 5 blocks
+
+[Green] rolled 1
+[G4] piece moved 1 blocks
+
+[Yellow] rolled 6
+[Y4] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Yellow] rolled 5
+[Y2] piece moved 5 blocks
+
+[Blue] rolled 2
+[B1] piece moved 2 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= 50 and pi=50
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 12 and pi=55
+Piece G4= 34 and pi=33
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 8 and pi=20
+Piece Y3= At Base
+Piece Y4= 27 and pi=1
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 23 and pi=18
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 42 and pi=51
+
+
+[Red] rolled 5
+[R2] piece moved 5 blocks
+
+[Green] rolled 5
+[G4] piece moved 5 blocks
+
+[Yellow] rolled 2
+[Y2] piece moved 2 blocks
+
+[Blue] rolled 1
+[B1] piece moved 1 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= In Home Line 
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Base
+Piece G2= At Base
+Piece G3= 12 and pi=55
+Piece G4= 29 and pi=38
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 6 and pi=22
+Piece Y3= At Base
+Piece Y4= 27 and pi=1
+
+[Blue] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 22 and pi=19
+Piece B2= At Base
+Piece B3= At Base
+Piece B4= 42 and pi=51
+
+
+[Red] rolled 5
+No moveable pieces for [Red]
+
+[Green] rolled 6
+[G1] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Green] rolled 3
+[G1] piece moved 3 blocks
+
+[Yellow] rolled 5
+[Y4] piece moved 5 blocks
+
+[Blue] rolled 6
+[B2] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Blue] rolled 2
+[B4] piece moved 2 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= In Home Line 
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 11 and pi=4
+Piece G2= At Base
+Piece G3= 12 and pi=55
+Piece G4= 29 and pi=38
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 6 and pi=22
+Piece Y3= At Base
+Piece Y4= 32 and pi=6
+
+[Blue] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 22 and pi=19
+Piece B2= 40 and pi=1
+Piece B3= At Base
+Piece B4= 40 and pi=53
+
+
+A mystery cell has spawned in location 22 and will be at this location for the next four rounds.
+[Red] rolled 3
+No moveable pieces for [Red]
+
+[Green] rolled 5
+[G1] piece moved 5 blocks
+[G1] piece captured by [Y2]!
+Player Can Roll Dices Again
+
+[Green] rolled 6
+[G4] piece moved 6 blocks
+# Roll Again #
+[Green] rolled 6
+[G1] piece moved 6 blocks
+# Roll Again #
+[Green] rolled 5
+[G4] piece moved 5 blocks
+
+[Yellow] rolled 2
+[Y4] piece moved 2 blocks
+
+[Blue] rolled 4
+[B1] piece moved 4 blocks
+[B1] piece captured by [G4]!
+Player Can Roll Dices Again
+
+[Blue] rolled 5
+[B2] piece moved 5 blocks
+
+[Red] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= In Home Line 
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 52 and pi=15
+Piece G2= At Base
+Piece G3= 12 and pi=55
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 34 and pi=8
+
+[Blue] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 18 and pi=23
+Piece B2= 45 and pi=6
+Piece B3= At Base
+Piece B4= 40 and pi=53
+
+
+[Red] rolled 2
+[R2] piece reached home
+
+[Green] rolled 2
+[G3] piece reached home
+
+[Yellow] rolled 3
+[Y4] piece moved 3 blocks
+
+[Blue] rolled 6
+[B2] piece moved 6 blocks
+# Roll Again #
+[Blue] rolled 6
+[B1] piece moved 6 blocks
+# Roll Again #
+[Blue] rolled 4
+[B1] piece moved 4 blocks
+
+[Red] player now has 3/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 52 and pi=15
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 37 and pi=11
+
+[Blue] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 8 and pi=33
+Piece B2= 51 and pi=12
+Piece B3= At Base
+Piece B4= 40 and pi=53
+
+
+[Red] rolled 4
+No moveable pieces for [Red]
+
+[Green] rolled 6
+[G4] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Green] rolled 2
+[G1] piece moved 2 blocks
+
+[Yellow] rolled 5
+[Y4] piece moved 5 blocks
+
+[Blue] rolled 5
+[B2] piece moved 5 blocks
+
+[Red] player now has 3/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 50 and pi=17
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 14 and pi=1
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 42 and pi=16
+
+[Blue] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 8 and pi=33
+Piece B2= 4 and pi=17
+Piece B3= At Base
+Piece B4= 40 and pi=53
+
+
+[Red] rolled 2
+No moveable pieces for [Red]
+
+[Green] rolled 1
+[G1] piece moved 1 blocks
+
+[Yellow] rolled 2
+[Y4] piece moved 2 blocks
+
+[Blue] rolled 5
+[B1] piece moved 5 blocks
+
+[Red] player now has 3/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 49 and pi=18
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 14 and pi=1
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 44 and pi=18
+
+[Blue] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 3 and pi=38
+Piece B2= 4 and pi=17
+Piece B3= At Base
+Piece B4= 40 and pi=53
+
+
+A mystery cell has spawned in location 18 and will be at this location for the next four rounds.
+[Red] rolled 2
+No moveable pieces for [Red]
+
+[Green] rolled 4
+[G4] piece moved 4 blocks
+[G4] player lands on a mystery cell and is teleported to Kotuwa.
+
+[Yellow] rolled 1
+[Y4] piece moved 1 blocks
+
+[Blue] rolled 3
+[B1] piece moved 3 blocks
+[B1] piece captured by [G4]!
+Player Can Roll Dices Again
+
+[Blue] rolled 3
+[B2] piece moved 3 blocks
+
+[Red] player now has 3/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 49 and pi=18
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 45 and pi=19
+
+[Blue] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 52 and pi=41
+Piece B2= 7 and pi=20
+Piece B3= At Base
+Piece B4= 40 and pi=53
+
+
+[Red] rolled 1
+No moveable pieces for [Red]
+
+[Green] rolled 6
+[G4] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Green] rolled 3
+[G4] piece moved 3 blocks
+
+[Yellow] rolled 6
+[Y2] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Yellow] rolled 5
+[Y4] piece moved 5 blocks
+
+[Blue] rolled 5
+[B2] piece moved 5 blocks
+
+[Red] player now has 3/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= At Base
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 49 and pi=18
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 11 and pi=4
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 27 and pi=1
+Piece Y3= At Base
+Piece Y4= 50 and pi=24
+
+[Blue] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 52 and pi=41
+Piece B2= 12 and pi=25
+Piece B3= At Base
+Piece B4= 40 and pi=53
+
+
+[Red] rolled 6
+[R4] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Red] rolled 5
+[R4] piece moved 5 blocks
+
+[Green] rolled 1
+[G1] piece moved 1 blocks
+
+[Yellow] rolled 1
+[Y4] piece moved 1 blocks
+
+[Blue] rolled 4
+[B2] piece moved 4 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 6 and pi=6
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 48 and pi=19
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 11 and pi=4
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 27 and pi=1
+Piece Y3= At Base
+Piece Y4= 51 and pi=25
+
+[Blue] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 52 and pi=41
+Piece B2= 16 and pi=29
+Piece B3= At Base
+Piece B4= 40 and pi=53
+
+
+[Red] rolled 1
+[R4] piece moved 1 blocks
+
+[Green] rolled 6
+[G1] piece moved 6 blocks
+# Roll Again #
+[Green] rolled 5
+[G4] piece moved 5 blocks
+
+[Yellow] rolled 3
+[Y2] piece moved 3 blocks
+
+[Blue] rolled 5
+[B1] piece moved 5 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 7 and pi=7
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 42 and pi=25
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 6 and pi=9
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 24 and pi=4
+Piece Y3= At Base
+Piece Y4= 51 and pi=25
+
+[Blue] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 47 and pi=46
+Piece B2= 16 and pi=29
+Piece B3= At Base
+Piece B4= 40 and pi=53
+
+
+A mystery cell has spawned in location 37 and will be at this location for the next four rounds.
+[Red] rolled 2
+[R4] piece moved 2 blocks
+
+[Green] rolled 4
+[G1] piece moved 4 blocks
+
+[Yellow] rolled 2
+[Y4] piece moved 2 blocks
+
+[Blue] rolled 1
+[B1] piece moved 1 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 9 and pi=9
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 38 and pi=29
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 6 and pi=9
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 24 and pi=4
+Piece Y3= At Base
+Piece Y4= 1 and pi=27
+
+[Blue] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 46 and pi=47
+Piece B2= 16 and pi=29
+Piece B3= At Base
+Piece B4= 40 and pi=53
+
+
+[Red] rolled 2
+[R4] piece moved 2 blocks
+
+[Green] rolled 4
+[G4] piece moved 4 blocks
+
+[Yellow] rolled 2
+[Y4] piece moved 2 blocks
+
+[Blue] rolled 6
+[B3] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Blue] rolled 5
+[B3] piece moved 5 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 11 and pi=11
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 38 and pi=29
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 2 and pi=13
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 24 and pi=4
+Piece Y3= At Base
+Piece Y4= 3 and pi=29
+
+[Blue] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 46 and pi=47
+Piece B2= 16 and pi=29
+Piece B3= 35 and pi=6
+Piece B4= 40 and pi=53
+
+
+[Red] rolled 2
+[R4] piece moved 2 blocks
+
+[Green] rolled 5
+[G1] piece moved 5 blocks
+
+[Yellow] rolled 4
+[Y2] piece moved 4 blocks
+
+[Blue] rolled 6
+[B1] piece moved 6 blocks
+# Roll Again #
+[Blue] rolled 4
+[B2] piece moved 4 blocks
+[B2] piece captured by [Y2]!
+Player Can Roll Dices Again
+
+[Blue] rolled 4
+[B4] piece reached home
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 13 and pi=13
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 33 and pi=34
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 2 and pi=13
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 3 and pi=29
+
+[Blue] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= 40 and pi=53
+Piece B2= 20 and pi=33
+Piece B3= 35 and pi=6
+Piece B4= At Home
+
+
+[Red] rolled 3
+[R4] piece moved 3 blocks
+
+[Green] rolled 3
+[G4] piece moved 3 blocks
+
+[Yellow] rolled 3
+[Y4] piece moved 3 blocks
+
+[Blue] rolled 4
+[B1] piece reached home
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 16 and pi=16
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 33 and pi=34
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 51 and pi=16
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 6 and pi=32
+
+[Blue] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= 20 and pi=33
+Piece B3= 35 and pi=6
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 22 and will be at this location for the next four rounds.
+[Red] rolled 5
+[R4] piece moved 5 blocks
+
+[Green] rolled 3
+[G4] piece moved 3 blocks
+
+[Yellow] rolled 6
+[Y4] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 3
+[Y4] piece moved 3 blocks
+
+[Blue] rolled 2
+[B2] piece moved 2 blocks
+[B2] player lands on a mystery cell and is teleported to Bhawana.
+[B2] piece feels energized, and movement speed doubles.
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 21 and pi=21
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 33 and pi=34
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 48 and pi=19
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 15 and pi=41
+
+[Blue] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= 34 and pi=47
+Piece B3= 35 and pi=6
+Piece B4= At Home
+
+
+[Red] rolled 2
+[R4] piece moved 2 blocks
+
+[Green] rolled 5
+[G4] piece moved 5 blocks
+
+[Yellow] rolled 4
+[Y4] piece moved 4 blocks
+
+[Blue] rolled 3
+[B2] piece energized and doubled roll value to 3
+[B2] piece moved 6 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 23 and pi=23
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 33 and pi=34
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 43 and pi=24
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 19 and pi=45
+
+[Blue] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= 37 and pi=50
+Piece B3= 35 and pi=6
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R4] piece moved 4 blocks
+
+[Green] rolled 4
+[G1] piece moved 4 blocks
+
+[Yellow] rolled 3
+[Y4] piece moved 3 blocks
+[Y4] player lands on a mystery cell and is teleported to Bhawana.
+[Y4] piece feels energized, and movement speed doubles.
+
+[Blue] rolled 2
+[B3] piece energized and doubled roll value to 2
+[B3] piece moved 4 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 27 and pi=27
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 29 and pi=38
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 43 and pi=24
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 34 and pi=8
+
+[Blue] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= 37 and pi=50
+Piece B3= 33 and pi=8
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R4] piece moved 4 blocks
+
+[Green] rolled 2
+[G4] piece moved 2 blocks
+
+[Yellow] rolled 1
+[Y4] piece energized and doubled roll value to 1
+[Y4] piece moved 2 blocks
+
+[Blue] rolled 3
+[B2] piece energized and doubled roll value to 3
+[B2] piece moved 6 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 31 and pi=31
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 29 and pi=38
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 41 and pi=26
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 35 and pi=9
+
+[Blue] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= In Home Line 
+Piece B3= 33 and pi=8
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 49 and will be at this location for the next four rounds.
+[Red] rolled 4
+[R4] piece moved 4 blocks
+[R4] piece captured by [Y4]!
+Player Can Roll Dices Again
+
+[Red] rolled 3
+[R4] piece moved 3 blocks
+
+[Green] rolled 4
+[G1] piece moved 4 blocks
+
+[Yellow] rolled 3
+No moveable pieces for [Yellow]
+
+[Blue] rolled 4
+[B3] piece energized and doubled roll value to 4
+[B3] piece moved 8 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 38 and pi=38
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 25 and pi=42
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 41 and pi=26
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= In Home Line 
+Piece B3= 29 and pi=12
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R4] piece moved 4 blocks
+
+[Green] rolled 2
+[G1] piece moved 2 blocks
+
+[Yellow] rolled 4
+No moveable pieces for [Yellow]
+
+[Blue] rolled 3
+[B2] piece moved 3 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 42 and pi=42
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 23 and pi=44
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 41 and pi=26
+
+[Yellow] player now has 4/4 on pieces on the board and 4/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= In Home Line 
+Piece B3= 29 and pi=12
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R4] piece moved 4 blocks
+
+[Green] rolled 1
+[G4] piece moved 1 blocks
+
+[Yellow] rolled 6
+[Y2] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Yellow] rolled 3
+[Y2] piece energized and doubled roll value to 3
+[Y2] piece moved 6 blocks
+
+[Blue] rolled 4
+[B3] piece moved 4 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 46 and pi=46
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 23 and pi=44
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 40 and pi=27
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 30 and pi=4
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= In Home Line 
+Piece B3= 25 and pi=16
+Piece B4= At Home
+
+
+[Red] rolled 5
+[R4] piece moved 5 blocks
+
+[Green] rolled 3
+[G1] piece moved 3 blocks
+
+[Yellow] rolled 5
+[Y2] piece energized and doubled roll value to 5
+[Y2] piece moved 10 blocks
+
+[Blue] rolled 3
+[B3] piece moved 3 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= 51 and pi=51
+
+[Green] player now has 3/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 20 and pi=47
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 40 and pi=27
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 35 and pi=9
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= In Home Line 
+Piece B3= 22 and pi=19
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 27 and will be at this location for the next four rounds.
+[Red] rolled 3
+[R4] piece moved 3 blocks
+
+[Green] rolled 4
+[G4] piece moved 4 blocks
+
+[Yellow] rolled 1
+[Y2] piece energized and doubled roll value to 1
+[Y2] piece moved 2 blocks
+[Y2] piece captured by [G4]!
+Player Can Roll Dices Again
+
+[Yellow] rolled 3
+[Y2] piece moved 3 blocks
+
+[Blue] rolled 3
+[B3] piece moved 3 blocks
+
+[Red] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= At Base
+Piece R4= In Home Line 
+
+[Green] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 20 and pi=47
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 39 and pi=13
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= In Home Line 
+Piece B3= 19 and pi=22
+Piece B4= At Home
+
+
+[Red] rolled 6
+[R3] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Red] rolled 6
+[R1] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Red] rolled 6
+[R1] piece moved 6 blocks
+
+[Green] rolled 4
+[G1] piece moved 4 blocks
+
+[Yellow] rolled 6
+[Y1] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+[Y1] player lands on a mystery cell and is teleported to Pita-Kotuwa.
+The [Y1] piece, which was moving clockwise, has changed to moving counterclockwise.
+[Y1] piece captured by [B3]!
+# Roll Again #
+[Yellow] rolled 1
+[Y1] piece moved 1 blocks
+Player Can Roll Dices Again
+
+[Yellow] rolled 1
+[Y2] piece moved 1 blocks
+
+[Blue] rolled 3
+No moveable pieces for [Blue]
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 47 and pi=7
+Piece R2= At Home
+Piece R3= 1 and pi=1
+Piece R4= In Home Line 
+
+[Green] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= 16 and pi=51
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 18 and pi=10
+Piece Y2= 40 and pi=14
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= In Home Line 
+Piece B3= At Base
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R1] piece moved 4 blocks
+
+[Green] rolled 5
+[G1] piece moved 5 blocks
+
+[Yellow] rolled 6
+[Y4] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+[Y4] player lands on a mystery cell and is teleported to X of the piece color.
+# Roll Again #
+[Yellow] rolled 6
+[Y3] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+[Y3] player lands on a mystery cell and is teleported to Bhawana.
+[Y3] piece feels sick, and movement speed halves.
+# Roll Again #
+[Yellow] rolled 4
+[Y1]  piece sicked and halved roll value to 2
+[Y1] piece moved 2 blocks
+
+[Blue] rolled 1
+[B2] piece reached home
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 43 and pi=11
+Piece R2= At Home
+Piece R3= 1 and pi=1
+Piece R4= In Home Line 
+
+[Green] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= In Home Line 
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 14 and pi=14
+Piece Y2= 40 and pi=14
+Piece Y3= 34 and pi=8
+Piece Y4= 27 and pi=1
+
+[Blue] player now has 1/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Base
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R3] piece moved 4 blocks
+
+[Green] rolled 2
+No moveable pieces for [Green]
+
+[Yellow] rolled 5
+[Y2]  piece sicked and halved roll value to 2
+[Y2] piece moved 2 blocks
+
+[Blue] rolled 1
+No moveable pieces for [Blue]
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 43 and pi=11
+Piece R2= At Home
+Piece R3= 49 and pi=5
+Piece R4= In Home Line 
+
+[Green] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= In Home Line 
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 14 and pi=14
+Piece Y2= 45 and pi=19
+Piece Y3= 34 and pi=8
+Piece Y4= 27 and pi=1
+
+[Blue] player now has 1/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Base
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 37 and will be at this location for the next four rounds.
+[Red] rolled 2
+[R4] piece moved 2 blocks
+
+[Green] rolled 2
+No moveable pieces for [Green]
+
+[Yellow] rolled 2
+[Y4]  piece sicked and halved roll value to 1
+[Y4] piece moved 1 blocks
+
+[Blue] rolled 5
+No moveable pieces for [Blue]
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 43 and pi=11
+Piece R2= At Home
+Piece R3= 49 and pi=5
+Piece R4= In Home Line 
+
+[Green] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= In Home Line 
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 14 and pi=14
+Piece Y2= 45 and pi=19
+Piece Y3= 34 and pi=8
+Piece Y4= 25 and pi=3
+
+[Blue] player now has 1/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Base
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R1] piece moved 4 blocks
+
+[Green] rolled 3
+No moveable pieces for [Green]
+
+[Yellow] rolled 6
+[Y2]  piece sicked and halved roll value to 3
+[Y2] piece moved 3 blocks
+# Roll Again #
+[Yellow] rolled 3
+[Y1] piece moved 3 blocks
+
+[Blue] rolled 6
+[B3] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Blue] rolled 4
+[B3] piece moved 4 blocks
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 39 and pi=15
+Piece R2= At Home
+Piece R3= 49 and pi=5
+Piece R4= In Home Line 
+
+[Green] player now has 3/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= In Home Line 
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 11 and pi=17
+Piece Y2= 51 and pi=25
+Piece Y3= 34 and pi=8
+Piece Y4= 25 and pi=3
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 44 and pi=5
+Piece B4= At Home
+
+
+[Red] rolled 1
+[R1] piece moved 1 blocks
+
+[Green] rolled 1
+[G1] piece reached home
+
+[Yellow] rolled 1
+[Y1] piece moved 1 blocks
+
+[Blue] rolled 4
+[B3] piece moved 4 blocks
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 38 and pi=16
+Piece R2= At Home
+Piece R3= 49 and pi=5
+Piece R4= In Home Line 
+
+[Green] player now has 2/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 10 and pi=18
+Piece Y2= 51 and pi=25
+Piece Y3= 34 and pi=8
+Piece Y4= 25 and pi=3
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 48 and pi=9
+Piece B4= At Home
+
+
+[Red] rolled 6
+[R1] piece moved 6 blocks
+# Roll Again #
+[Red] rolled 4
+[R1] piece moved 4 blocks
+
+[Green] rolled 1
+No moveable pieces for [Green]
+
+[Yellow] rolled 4
+[Y1] piece moved 4 blocks
+
+[Blue] rolled 2
+[B3] piece moved 2 blocks
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 28 and pi=26
+Piece R2= At Home
+Piece R3= 49 and pi=5
+Piece R4= In Home Line 
+
+[Green] player now has 2/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 6 and pi=22
+Piece Y2= 51 and pi=25
+Piece Y3= 34 and pi=8
+Piece Y4= 25 and pi=3
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 50 and pi=11
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 40 and will be at this location for the next four rounds.
+[Red] rolled 5
+[R1] piece moved 5 blocks
+
+[Green] rolled 6
+[G2] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Green] rolled 4
+[G2] piece moved 4 blocks
+
+[Yellow] rolled 5
+[Y3] piece moved 5 blocks
+
+[Blue] rolled 4
+[B3] piece moved 4 blocks
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 23 and pi=31
+Piece R2= At Home
+Piece R3= 49 and pi=5
+Piece R4= In Home Line 
+
+[Green] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 10 and pi=5
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 6 and pi=22
+Piece Y2= 51 and pi=25
+Piece Y3= 39 and pi=13
+Piece Y4= 25 and pi=3
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 2 and pi=15
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R1] piece moved 4 blocks
+
+[Green] rolled 5
+[G2] piece moved 5 blocks
+
+[Yellow] rolled 5
+[Y2] piece moved 5 blocks
+
+[Blue] rolled 6
+[B3] piece moved 6 blocks
+# Roll Again #
+[Blue] rolled 3
+[B3] piece moved 3 blocks
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 19 and pi=35
+Piece R2= At Home
+Piece R3= 49 and pi=5
+Piece R4= In Home Line 
+
+[Green] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 5 and pi=10
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 6 and pi=22
+Piece Y2= 4 and pi=30
+Piece Y3= 39 and pi=13
+Piece Y4= 25 and pi=3
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 11 and pi=24
+Piece B4= At Home
+
+
+[Red] rolled 3
+[R1] piece moved 3 blocks
+
+[Green] rolled 4
+[G2] piece moved 4 blocks
+
+[Yellow] rolled 2
+[Y1] piece moved 2 blocks
+
+[Blue] rolled 1
+[B3] piece moved 1 blocks
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 16 and pi=38
+Piece R2= At Home
+Piece R3= 49 and pi=5
+Piece R4= In Home Line 
+
+[Green] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 1 and pi=14
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 4 and pi=24
+Piece Y2= 4 and pi=30
+Piece Y3= 39 and pi=13
+Piece Y4= 25 and pi=3
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 12 and pi=25
+Piece B4= At Home
+
+
+[Red] rolled 3
+[R1] piece moved 3 blocks
+
+[Green] rolled 5
+[G2] piece moved 5 blocks
+
+[Yellow] rolled 4
+[Y2] piece moved 4 blocks
+
+[Blue] rolled 5
+[B3] piece moved 5 blocks
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 13 and pi=41
+Piece R2= At Home
+Piece R3= 49 and pi=5
+Piece R4= In Home Line 
+
+[Green] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 48 and pi=19
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 4 and pi=24
+Piece Y2= 8 and pi=34
+Piece Y3= 39 and pi=13
+Piece Y4= 25 and pi=3
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 17 and pi=30
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 10 and will be at this location for the next four rounds.
+[Red] rolled 3
+[R1] piece moved 3 blocks
+[R1] player lands on a mystery cell and is teleported to Bhawana.
+[R1] piece feels energized, and movement speed doubles.
+
+[Green] rolled 6
+[G2] piece moved 6 blocks
+# Roll Again #
+[Green] rolled 3
+[G2] piece moved 3 blocks
+[G2] piece captured by [Y3]!
+Player Can Roll Dices Again
+
+[Green] rolled 4
+[G2] piece moved 4 blocks
+
+[Yellow] rolled 5
+[Y4] piece moved 5 blocks
+
+[Blue] rolled 1
+[B3] piece moved 1 blocks
+
+[Red] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 34 and pi=20
+Piece R2= At Home
+Piece R3= 49 and pi=5
+Piece R4= In Home Line 
+
+[Green] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 35 and pi=32
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 4 and pi=24
+Piece Y2= 8 and pi=34
+Piece Y3= At Base
+Piece Y4= 20 and pi=8
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 18 and pi=31
+Piece B4= At Home
+
+
+[Red] rolled 6
+[R1] piece energized and doubled roll value to 6
+[R1] piece moved 12 blocks
+# Roll Again #
+[Red] rolled 1
+[R4] piece reached home
+
+[Green] rolled 2
+[G2] piece moved 2 blocks
+
+[Yellow] rolled 5
+[Y1] piece moved 5 blocks
+
+[Blue] rolled 2
+[B3] piece moved 2 blocks
+[B3] piece captured by [Y4]!
+Player Can Roll Dices Again
+
+[Blue] rolled 5
+[B3] piece moved 5 blocks
+
+[Red] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 28 and pi=26
+Piece R2= At Home
+Piece R3= 49 and pi=5
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 33 and pi=34
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 51 and pi=29
+Piece Y2= 8 and pi=34
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 25 and pi=38
+Piece B4= At Home
+
+
+[Red] rolled 6
+[R3] piece energized and doubled roll value to 6
+[R3] piece moved 12 blocks
+# Roll Again #
+[Red] rolled 6
+[R1] piece energized and doubled roll value to 6
+[R1] piece moved 12 blocks
+# Roll Again #
+[Red] rolled 2
+[R3] piece energized and doubled roll value to 2
+[R3] piece moved 4 blocks
+
+[Green] rolled 1
+[G2] piece moved 1 blocks
+
+[Yellow] rolled 4
+[Y1] piece moved 4 blocks
+
+[Blue] rolled 5
+[B3] piece moved 5 blocks
+
+[Red] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 22 and pi=32
+Piece R2= At Home
+Piece R3= 41 and pi=13
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 32 and pi=35
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 47 and pi=33
+Piece Y2= 8 and pi=34
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 30 and pi=43
+Piece B4= At Home
+
+
+[Red] rolled 5
+[R3] piece moved 5 blocks
+
+[Green] rolled 4
+[G2] piece moved 4 blocks
+
+[Yellow] rolled 5
+[Y2] piece moved 5 blocks
+
+[Blue] rolled 5
+[B3] piece moved 5 blocks
+
+[Red] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 22 and pi=32
+Piece R2= At Home
+Piece R3= 36 and pi=18
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 28 and pi=39
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 47 and pi=33
+Piece Y2= 13 and pi=39
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 35 and pi=48
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 7 and will be at this location for the next four rounds.
+[Red] rolled 3
+[R3] piece moved 3 blocks
+
+[Green] rolled 4
+[G2] piece moved 4 blocks
+
+[Yellow] rolled 4
+[Y2] piece moved 4 blocks
+
+[Blue] rolled 3
+[B3] piece moved 3 blocks
+
+[Red] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 22 and pi=32
+Piece R2= At Home
+Piece R3= 33 and pi=21
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 24 and pi=43
+Piece G3= At Home
+Piece G4= At Base
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 47 and pi=33
+Piece Y2= 17 and pi=43
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= 38 and pi=51
+Piece B4= At Home
+
+
+[Red] rolled 1
+[R3] piece moved 1 blocks
+
+[Green] rolled 6
+[G4] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Green] rolled 2
+[G2] piece moved 2 blocks
+[G2] piece captured by [R1]!
+Player Can Roll Dices Again
+
+[Green] rolled 5
+[G4] piece moved 5 blocks
+
+[Yellow] rolled 3
+[Y1] piece moved 3 blocks
+
+[Blue] rolled 2
+[B3] piece moved 2 blocks
+
+[Red] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= 32 and pi=22
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 22 and pi=45
+Piece G3= At Home
+Piece G4= 9 and pi=6
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=36
+Piece Y2= 17 and pi=43
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= In Home Line 
+Piece B4= At Home
+
+
+[Red] rolled 5
+[R3] piece moved 5 blocks
+
+[Green] rolled 6
+[G4] piece moved 6 blocks
+# Roll Again #
+[Green] rolled 5
+[G4] piece moved 5 blocks
+
+[Yellow] rolled 4
+[Y1] piece moved 4 blocks
+
+[Blue] rolled 4
+[B3] piece reached home
+
+****************************************
+[Blue] is the 1st winner! ⭐
+****************************************
+
+[Red] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= 27 and pi=27
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 22 and pi=45
+Piece G3= At Home
+Piece G4= 50 and pi=17
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 40 and pi=40
+Piece Y2= 17 and pi=43
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R3] piece moved 4 blocks
+
+[Green] rolled 1
+[G2] piece moved 1 blocks
+
+[Yellow] rolled 1
+[Y1] piece moved 1 blocks
+
+[Red] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= 23 and pi=31
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 21 and pi=46
+Piece G3= At Home
+Piece G4= 50 and pi=17
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 39 and pi=41
+Piece Y2= 17 and pi=43
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 5 and will be at this location for the next four rounds.
+[Red] rolled 5
+[R3] piece moved 5 blocks
+
+[Green] rolled 4
+[G4] piece moved 4 blocks
+
+[Yellow] rolled 4
+[Y1] piece moved 4 blocks
+
+[Red] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= 18 and pi=36
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 21 and pi=46
+Piece G3= At Home
+Piece G4= 46 and pi=21
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 35 and pi=45
+Piece Y2= 17 and pi=43
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 3
+[R3] piece moved 3 blocks
+
+[Green] rolled 2
+[G4] piece moved 2 blocks
+
+[Yellow] rolled 1
+[Y2] piece moved 1 blocks
+
+[Red] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= 15 and pi=39
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 21 and pi=46
+Piece G3= At Home
+Piece G4= 44 and pi=23
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 35 and pi=45
+Piece Y2= 18 and pi=44
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 2
+[R3] piece moved 2 blocks
+
+[Green] rolled 4
+[G4] piece moved 4 blocks
+
+[Yellow] rolled 4
+[Y1] piece moved 4 blocks
+
+[Red] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= 13 and pi=41
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 21 and pi=46
+Piece G3= At Home
+Piece G4= 40 and pi=27
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 31 and pi=49
+Piece Y2= 18 and pi=44
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R3] piece moved 4 blocks
+
+[Green] rolled 6
+[G2] piece moved 6 blocks
+# Roll Again #
+[Green] rolled 1
+[G2] piece moved 1 blocks
+
+[Yellow] rolled 2
+[Y2] piece moved 2 blocks
+
+[Red] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Base
+Piece R2= At Home
+Piece R3= 9 and pi=45
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 14 and pi=53
+Piece G3= At Home
+Piece G4= 40 and pi=27
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 31 and pi=49
+Piece Y2= 20 and pi=46
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 16 and will be at this location for the next four rounds.
+[Red] rolled 6
+[R3] piece moved 6 blocks
+# Roll Again #
+[Red] rolled 6
+[R3] piece reached home
+# Roll Again #
+[Red] rolled 6
+[R1] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+
+[Green] rolled 5
+[G4] piece moved 5 blocks
+
+[Yellow] rolled 2
+[Y1] piece moved 2 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 1 and pi=1
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 14 and pi=53
+Piece G3= At Home
+Piece G4= 35 and pi=32
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 29 and pi=51
+Piece Y2= 20 and pi=46
+Piece Y3= At Base
+Piece Y4= At Base
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 5
+[R1] piece moved 5 blocks
+
+[Green] rolled 1
+[G2] piece moved 1 blocks
+
+[Yellow] rolled 6
+[Y4] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Yellow] rolled 3
+[Y2] piece moved 3 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 6 and pi=6
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 13 and pi=54
+Piece G3= At Home
+Piece G4= 35 and pi=32
+
+[Yellow] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 29 and pi=51
+Piece Y2= 23 and pi=49
+Piece Y3= At Base
+Piece Y4= 27 and pi=1
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R1] piece moved 4 blocks
+
+[Green] rolled 6
+[G4] piece moved 6 blocks
+[G4] piece captured by [Y1]!
+# Roll Again #
+[Green] rolled 5
+[G4] piece moved 5 blocks
+Player Can Roll Dices Again
+
+[Green] rolled 1
+[G2] piece moved 1 blocks
+
+[Yellow] rolled 1
+[Y4] piece moved 1 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 10 and pi=10
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 12 and pi=55
+Piece G3= At Home
+Piece G4= 24 and pi=43
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 23 and pi=49
+Piece Y3= At Base
+Piece Y4= 28 and pi=2
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 2
+[R1] piece moved 2 blocks
+[R1] piece captured by [G2]!
+Player Can Roll Dices Again
+
+[Red] rolled 3
+[R1] piece moved 3 blocks
+
+[Green] rolled 1
+[G4] piece moved 1 blocks
+[G4] piece captured by [Y2]!
+Player Can Roll Dices Again
+
+[Green] rolled 6
+[G4] piece moved 6 blocks
+# Roll Again #
+[Green] rolled 5
+[G4] piece moved 5 blocks
+
+[Yellow] rolled 5
+[Y4] piece moved 5 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 15 and pi=15
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 2/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= 12 and pi=55
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 33 and pi=7
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 33 and will be at this location for the next four rounds.
+[Red] rolled 3
+[R1] piece moved 3 blocks
+
+[Green] rolled 2
+[G4] piece reached home
+
+[Yellow] rolled 1
+[Y4] piece moved 1 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 18 and pi=18
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 34 and pi=8
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R1] piece moved 4 blocks
+
+[Green] rolled 4
+No moveable pieces for [Green]
+
+[Yellow] rolled 2
+[Y4] piece moved 2 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 22 and pi=22
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 36 and pi=10
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 4
+[R1] piece moved 4 blocks
+
+[Green] rolled 2
+No moveable pieces for [Green]
+
+[Yellow] rolled 4
+[Y4] piece moved 4 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 26 and pi=26
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 40 and pi=14
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 6
+[R1] piece moved 6 blocks
+# Roll Again #
+[Red] rolled 2
+[R1] piece moved 2 blocks
+
+[Green] rolled 1
+No moveable pieces for [Green]
+
+[Yellow] rolled 1
+[Y4] piece moved 1 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 34 and pi=34
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 41 and pi=15
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 11 and will be at this location for the next four rounds.
+[Red] rolled 4
+[R1] piece moved 4 blocks
+
+[Green] rolled 4
+No moveable pieces for [Green]
+
+[Yellow] rolled 2
+[Y4] piece moved 2 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 38 and pi=38
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 3/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= At Base
+Piece Y4= 43 and pi=17
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 1
+[R1] piece moved 1 blocks
+
+[Green] rolled 1
+No moveable pieces for [Green]
+
+[Yellow] rolled 6
+[Y2] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Yellow] rolled 6
+[Y3] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Yellow] rolled 6
+[Y2] piece moved 6 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 39 and pi=39
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 21 and pi=7
+Piece Y3= 27 and pi=1
+Piece Y4= 43 and pi=17
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 3
+[R1] piece moved 3 blocks
+
+[Green] rolled 5
+No moveable pieces for [Green]
+
+[Yellow] rolled 6
+[Y4] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 6
+[Y4] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 4
+[Y3] piece moved 4 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 42 and pi=42
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Base
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 21 and pi=7
+Piece Y3= 31 and pi=5
+Piece Y4= 3 and pi=29
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 6
+[R1] piece moved 6 blocks
+# Roll Again #
+[Red] rolled 3
+[R1] piece moved 3 blocks
+
+[Green] rolled 6
+[G2] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Green] rolled 3
+[G2] piece moved 3 blocks
+
+[Yellow] rolled 3
+[Y2] piece moved 3 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= 51 and pi=51
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 17 and pi=4
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 1/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= 18 and pi=10
+Piece Y3= 31 and pi=5
+Piece Y4= 3 and pi=29
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 42 and will be at this location for the next four rounds.
+[Red] rolled 1
+[R1] piece moved 1 blocks
+
+[Green] rolled 1
+[G2] piece moved 1 blocks
+[G2] piece captured by [Y2]!
+Player Can Roll Dices Again
+
+[Green] rolled 1
+[G2] piece moved 1 blocks
+
+[Yellow] rolled 2
+[Y4] piece moved 2 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= In Home Line 
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 19 and pi=6
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= 31 and pi=5
+Piece Y4= 5 and pi=31
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 3
+[R1] piece moved 3 blocks
+
+[Green] rolled 4
+[G2] piece moved 4 blocks
+
+[Yellow] rolled 4
+[Y3] piece moved 4 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= In Home Line 
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 23 and pi=10
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= 35 and pi=9
+Piece Y4= 5 and pi=31
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 5
+No moveable pieces for [Red]
+
+[Green] rolled 4
+[G2] piece moved 4 blocks
+
+[Yellow] rolled 2
+[Y3] piece moved 2 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= In Home Line 
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 27 and pi=14
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= 37 and pi=11
+Piece Y4= 5 and pi=31
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Red] rolled 4
+No moveable pieces for [Red]
+
+[Green] rolled 6
+[G2] piece moved 6 blocks
+# Roll Again #
+[Green] rolled 1
+[G2] piece moved 1 blocks
+
+[Yellow] rolled 6
+[Y3] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 4
+[Y3] piece moved 4 blocks
+
+[Red] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= In Home Line 
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 34 and pi=21
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= 47 and pi=21
+Piece Y4= 5 and pi=31
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 15 and will be at this location for the next four rounds.
+[Red] rolled 2
+[R1] piece reached home
+
+****************************************
+[Red] is the 2nd winner! ⭐
+****************************************
+
+[Green] rolled 1
+[G2] piece moved 1 blocks
+
+[Yellow] rolled 1
+[Y4] piece moved 1 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 35 and pi=22
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= 47 and pi=21
+Piece Y4= 6 and pi=32
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Green] rolled 2
+[G2] piece moved 2 blocks
+
+[Yellow] rolled 4
+[Y3] piece moved 4 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 37 and pi=24
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 2/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Base
+Piece Y2= At Base
+Piece Y3= 51 and pi=25
+Piece Y4= 6 and pi=32
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Green] rolled 1
+[G2] piece moved 1 blocks
+
+[Yellow] rolled 6
+[Y2] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Tail and Piece Can Move In Counterclockwise
+# Roll Again #
+[Yellow] rolled 6
+[Y1] moved to starting square 'X'
+Flip the coin to find direction
+Coin flipped Head And Piece Can Move In Clockwise
+# Roll Again #
+[Yellow] rolled 4
+[Y2] piece moved 4 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 38 and pi=25
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 27 and pi=1
+Piece Y2= 23 and pi=5
+Piece Y3= 51 and pi=25
+Piece Y4= 6 and pi=32
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Green] rolled 4
+[G2] piece moved 4 blocks
+
+[Yellow] rolled 4
+[Y2] piece moved 4 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 42 and pi=29
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 27 and pi=1
+Piece Y2= 19 and pi=9
+Piece Y3= 51 and pi=25
+Piece Y4= 6 and pi=32
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 17 and will be at this location for the next four rounds.
+[Green] rolled 5
+[G2] piece moved 5 blocks
+
+[Yellow] rolled 6
+[Y4] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 4
+[Y2] piece moved 4 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 47 and pi=34
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 27 and pi=1
+Piece Y2= 15 and pi=13
+Piece Y3= 51 and pi=25
+Piece Y4= 12 and pi=38
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Green] rolled 1
+[G2] piece moved 1 blocks
+
+[Yellow] rolled 1
+[Y4] piece moved 1 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 48 and pi=35
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 27 and pi=1
+Piece Y2= 15 and pi=13
+Piece Y3= 51 and pi=25
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Green] rolled 4
+[G2] piece moved 4 blocks
+
+[Yellow] rolled 1
+[Y2] piece moved 1 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 52 and pi=39
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 27 and pi=1
+Piece Y2= 14 and pi=14
+Piece Y3= 51 and pi=25
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Green] rolled 3
+[G2] piece moved 3 blocks
+
+[Yellow] rolled 3
+[Y3] piece moved 3 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 3 and pi=42
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 27 and pi=1
+Piece Y2= 14 and pi=14
+Piece Y3= 2 and pi=28
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 30 and will be at this location for the next four rounds.
+[Green] rolled 4
+[G2] piece moved 4 blocks
+
+[Yellow] rolled 1
+[Y2] piece moved 1 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 7 and pi=46
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 27 and pi=1
+Piece Y2= 13 and pi=15
+Piece Y3= 2 and pi=28
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Green] rolled 3
+[G2] piece moved 3 blocks
+
+[Yellow] rolled 6
+[Y2] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 1
+[Y3] piece moved 1 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= 10 and pi=49
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 27 and pi=1
+Piece Y2= 7 and pi=21
+Piece Y3= 3 and pi=29
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Green] rolled 6
+[G2] piece moved 6 blocks
+# Roll Again #
+[Green] rolled 5
+No moveable pieces for [Green]
+
+[Yellow] rolled 2
+[Y1] piece moved 2 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= In Home Line 
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 29 and pi=3
+Piece Y2= 7 and pi=21
+Piece Y3= 3 and pi=29
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Green] rolled 2
+[G2] piece reached home
+
+****************************************
+[Green] is the 3rd winner! ⭐
+****************************************
+
+[Yellow] rolled 2
+[Y2] piece moved 2 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 29 and pi=3
+Piece Y2= 5 and pi=23
+Piece Y3= 3 and pi=29
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 2 and will be at this location for the next four rounds.
+[Yellow] rolled 6
+[Y1] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 6
+[Y2] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 5
+[Y3] piece moved 5 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 35 and pi=9
+Piece Y2= 51 and pi=29
+Piece Y3= 8 and pi=34
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 2
+[Y1] piece moved 2 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 37 and pi=11
+Piece Y2= 51 and pi=29
+Piece Y3= 8 and pi=34
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 1
+[Y3] piece moved 1 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 37 and pi=11
+Piece Y2= 51 and pi=29
+Piece Y3= 9 and pi=35
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 6
+[Y1] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 1
+[Y1] piece moved 1 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=18
+Piece Y2= 51 and pi=29
+Piece Y3= 9 and pi=35
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 38 and will be at this location for the next four rounds.
+[Yellow] rolled 1
+[Y3] piece moved 1 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=18
+Piece Y2= 51 and pi=29
+Piece Y3= 10 and pi=36
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 1
+[Y3] piece moved 1 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=18
+Piece Y2= 51 and pi=29
+Piece Y3= 11 and pi=37
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 3
+[Y3] piece moved 3 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=18
+Piece Y2= 51 and pi=29
+Piece Y3= 14 and pi=40
+Piece Y4= 13 and pi=39
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 2
+[Y4] piece moved 2 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=18
+Piece Y2= 51 and pi=29
+Piece Y3= 14 and pi=40
+Piece Y4= 15 and pi=41
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 7 and will be at this location for the next four rounds.
+[Yellow] rolled 3
+[Y4] piece moved 3 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=18
+Piece Y2= 51 and pi=29
+Piece Y3= 14 and pi=40
+Piece Y4= 18 and pi=44
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 4
+[Y4] piece moved 4 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=18
+Piece Y2= 51 and pi=29
+Piece Y3= 14 and pi=40
+Piece Y4= 22 and pi=48
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 4
+[Y4] piece moved 4 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=18
+Piece Y2= 51 and pi=29
+Piece Y3= 14 and pi=40
+Piece Y4= In Home Line 
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 5
+[Y3] piece moved 5 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=18
+Piece Y2= 51 and pi=29
+Piece Y3= 19 and pi=45
+Piece Y4= In Home Line 
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 52 and will be at this location for the next four rounds.
+[Yellow] rolled 4
+[Y4] piece moved 4 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=18
+Piece Y2= 51 and pi=29
+Piece Y3= 19 and pi=45
+Piece Y4= In Home Line 
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 5
+[Y3] piece moved 5 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 44 and pi=18
+Piece Y2= 51 and pi=29
+Piece Y3= 24 and pi=50
+Piece Y4= In Home Line 
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 6
+[Y1] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 1
+[Y2] piece moved 1 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 50 and pi=24
+Piece Y2= 50 and pi=30
+Piece Y3= 24 and pi=50
+Piece Y4= In Home Line 
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 1
+[Y3] piece moved 1 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 50 and pi=24
+Piece Y2= 50 and pi=30
+Piece Y3= 25 and pi=51
+Piece Y4= In Home Line 
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 6 and will be at this location for the next four rounds.
+[Yellow] rolled 5
+[Y2] piece moved 5 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 50 and pi=24
+Piece Y2= 45 and pi=35
+Piece Y3= 25 and pi=51
+Piece Y4= In Home Line 
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 6
+[Y1] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 5
+[Y1] piece moved 5 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 4/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 9 and pi=35
+Piece Y2= 45 and pi=35
+Piece Y3= 25 and pi=51
+Piece Y4= In Home Line 
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 1
+[Y4] piece reached home
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 9 and pi=35
+Piece Y2= 45 and pi=35
+Piece Y3= 25 and pi=51
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 5
+[Y3] piece moved 5 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 9 and pi=35
+Piece Y2= 45 and pi=35
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 26 and will be at this location for the next four rounds.
+[Yellow] rolled 2
+[Y2] piece moved 2 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 9 and pi=35
+Piece Y2= 43 and pi=37
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 4
+[Y1] piece moved 4 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 13 and pi=39
+Piece Y2= 43 and pi=37
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 5
+[Y1] piece moved 5 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 18 and pi=44
+Piece Y2= 43 and pi=37
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 3
+[Y2] piece moved 3 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 18 and pi=44
+Piece Y2= 40 and pi=40
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 2 and will be at this location for the next four rounds.
+[Yellow] rolled 5
+[Y1] piece moved 5 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= 23 and pi=49
+Piece Y2= 40 and pi=40
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 4
+[Y1] piece moved 4 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= In Home Line 
+Piece Y2= 40 and pi=40
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 2
+[Y1] piece moved 2 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= In Home Line 
+Piece Y2= 40 and pi=40
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 5
+[Y2] piece moved 5 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= In Home Line 
+Piece Y2= 35 and pi=45
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 7 and will be at this location for the next four rounds.
+[Yellow] rolled 6
+[Y2] piece moved 6 blocks
+# Roll Again #
+[Yellow] rolled 5
+[Y2] piece moved 5 blocks
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 3/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= In Home Line 
+Piece Y2= In Home Line 
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 2
+[Y1] piece reached home
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= In Home Line 
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 2
+No moveable pieces for [Yellow]
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= In Home Line 
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 3
+No moveable pieces for [Yellow]
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= In Home Line 
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 41 and will be at this location for the next four rounds.
+[Yellow] rolled 5
+No moveable pieces for [Yellow]
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= In Home Line 
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 2
+No moveable pieces for [Yellow]
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= In Home Line 
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 3
+No moveable pieces for [Yellow]
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= In Home Line 
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 3
+No moveable pieces for [Yellow]
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 2/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= In Home Line 
+Piece Y3= In Home Line 
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 41 and will be at this location for the next four rounds.
+[Yellow] rolled 1
+[Y3] piece reached home
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= In Home Line 
+Piece Y3= At Home
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 5
+No moveable pieces for [Yellow]
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= In Home Line 
+Piece Y3= At Home
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 3
+No moveable pieces for [Yellow]
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= In Home Line 
+Piece Y3= At Home
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+[Yellow] rolled 4
+No moveable pieces for [Yellow]
+
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 1/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= In Home Line 
+Piece Y3= At Home
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+
+A mystery cell has spawned in location 5 and will be at this location for the next four rounds.
+[Yellow] rolled 6
+No moveable pieces for [Yellow]
+# Roll Again #
+[Yellow] rolled 1
+[Y2] piece reached home
+
+****************************************
+[Yellow] is the 4th winner! ⭐
+****************************************
+[Red] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Red] Player
+============================
+Piece R1= At Home
+Piece R2= At Home
+Piece R3= At Home
+Piece R4= At Home
+
+[Green] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Green] Player
+============================
+Piece G1= At Home
+Piece G2= At Home
+Piece G3= At Home
+Piece G4= At Home
+
+[Yellow] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Yellow] Player
+============================
+Piece Y1= At Home
+Piece Y2= At Home
+Piece Y3= At Home
+Piece Y4= At Home
+
+[Blue] player now has 0/4 on pieces on the board and 0/4 pieces on the base
+============================
+Location Of Each Piece Of [Blue] Player
+============================
+Piece B1= At Home
+Piece B2= At Home
+Piece B3= At Home
+Piece B4= At Home
+
+

@@ -1,0 +1,104 @@
+
+\documentclass{article}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{caption}
+\usepackage{amsmath}
+
+\captionsetup[lstlisting]{font={small,tt}}
+
+\title{Documentation of Ludo Game Code}
+\author{User}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+This document provides an overview of the C code written for a Ludo game. The code is divided into several files, each responsible for different aspects of the game. The key functions and logic are described below.
+
+\section{Function.c}
+The \texttt{Function.c} file contains the core functions responsible for moving pieces, checking game conditions, and handling special scenarios such as energized or sick pieces.
+
+\subsection{Key Functions}
+
+\subsubsection{Movement and Positioning}
+The code includes logic for moving pieces based on their state (e.g., energized or sick). If a piece is energized, it moves twice as far; if it is sick, its movement is halved.
+
+\begin{lstlisting}[language=C,caption={Handling Movement in \texttt{Function.c}},label={lst:movement_function}]
+if (previous_rolls[i] == 3 && dice[i] == 3 && mark== 1) {
+    printf("[%s] rolled two consecutive 3s and %s piece move back kotuwa to base!\\n", player[i],color[i][temp2]);
+    piece[i][temp2]=0; 
+    position[i][temp2]=0;
+}
+previous_rolls[i] = dice[i];
+\end{lstlisting}
+
+\subsubsection{Special States Handling}
+The file also includes logic for managing special states such as energized or sick pieces, influencing their movement over several rounds.
+
+\begin{lstlisting}[language=C,caption={Handling Energized and Sick Pieces},label={lst:special_states}]
+if (energized[i][j] == 1 && round_roll[i][j] <= 4) {
+    dice[i] = dice[i] * 2;
+    ...
+}
+if (sick[i][j] == 1 && round_roll[i][j] <= 4) {
+    dice[i] = dice[i] / 2;
+    ...
+}
+\end{lstlisting}
+
+\section{main.c}
+The \texttt{main.c} file is the entry point of the program. It initializes the game, handles user input, and coordinates the gameplay.
+
+\subsection{Game Initialization}
+This section initializes the game board and sets up the players.
+
+\begin{lstlisting}[language=C,caption={Game Initialization in \texttt{main.c}},label={lst:initialization}]
+int main() {
+    initialize_board();
+    ...
+}
+\end{lstlisting}
+
+\section{behavior.c}
+The \texttt{behavior.c} file contains the behavior logic for different players, potentially differentiated by their color (e.g., red, blue, yellow). Each player's strategy is defined in a specific function.
+
+\subsection{Red Player Behavior}
+The red player's behavior prioritizes moving pieces that are close to home.
+
+\begin{lstlisting}[language=C,caption={Red Player Behavior},label={lst:red_behavior}]
+int red_player_behavior(...) {
+    int closest_to_home = -1;
+    int closest_distance = 52;
+    for (int i = 0; i < 4; i++) {
+        if (piece[0][i] == 1) {
+            int distance = (52 + position[0][i] - 0) % 52;  // 0 is red's home position
+            if (distance < closest_distance) {
+                closest_distance = distance;
+                closest_to_home = i;
+            }
+        }
+    }
+    return closest_to_home != -1 ? closest_to_home : 0;
+}
+\end{lstlisting}
+
+\subsection{Blue Player Behavior}
+The blue player moves in a cyclic manner, ensuring all pieces are evenly moved.
+
+\begin{lstlisting}[language=C,caption={Blue Player Behavior},label={lst:blue_behavior}]
+int blue_player_behavior(...) {
+    static int last_moved = -1;
+    for (int i = 1; i <= 4; i++) {
+        int current = (last_moved + i) % 4;
+        if (piece[1][current] == 1) {
+            last_moved = current;
+            return current;
+        }
+    }
+    return 0;
+}
+\end{lstlisting}
+
+\end{document}
